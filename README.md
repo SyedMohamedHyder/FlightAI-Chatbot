@@ -56,13 +56,13 @@ python flightai_chatbot.py
 | `requirements.txt`   | Python dependencies                          |
 | `.env.example`       | Example for environment variables            |
 | `README.md`          | Setup and documentation                      |
-| `assets/` (optional) | Images or media used in demo or UI           |
 
 ---
 
 ## 📸 Demo
 
-*(Optional: Add screenshots or GIFs here to showcase the chatbot UI in action)*
+![image](https://github.com/user-attachments/assets/309367c6-144c-4c38-bb9e-0ba0d7bb0974)
+
 
 ---
 
